@@ -1,0 +1,11 @@
+{
+  "name": "clawdbot-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "pnpm ui:build",
+    "dev": "pnpm --dir ui dev"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
